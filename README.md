@@ -1,7 +1,9 @@
 #Instructions
 
-1. open CMD and type 'git clone'
+1. Open CMD and type 'git clone'
 
-2. cd to new directory folder
+2. 'cd' to new directory folder
 
-3. enter 'npm start'
+3. Enter 'npm install' to install dependencies
+
+4. Enter 'npm start'
