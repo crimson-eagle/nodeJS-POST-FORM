@@ -1,6 +1,6 @@
 #Instructions
 
-1. Open CMD and type 'git clone'
+1. Open CMD and type 'git clone https://github.com/crimson-eagle/nodeJS-POST-FORM.git'
 
 2. 'cd' to new directory folder
 
